@@ -1,0 +1,16 @@
+Module:
+module kia hota ha?
+module ziada kuch nhi hota ha is ma kisi na kisi cheez ka bara ma code kia hota ha pehla sa hi jasa ka random number generate karna ka code ya phir koi or hum kisi bhi mdule jis ki hama need ha use kar ka apna kaam asaaan kar sakta ha or sara code kara sa bach sakta ha inshort hamara kaam asaan ho jata ha module ko use karna sa or time bhi back jata ha kisi bhi module ko use karna ka lia huma sab sa pehla usa install karna hota ha or wo hum cmd (command prompt) ya phir windows powershell admin ma ja kar ya line likh kar karta ha 
+pip install module_name_that_ you_want_to_install and then presss enter after successfully installation of this module now you type 'python' and press enter.enter press karna ka baad aap python enterpeter ma dakhil ho jata ho or us ki pehchaan ya ha ka >>> is tarha ka teen greater than ka symbol araha hota ha jo ka hama ya btata ha ka hum python enterpreter ka ander khara howa ha and after that you write import module_name_that_ you_want_to_import.......
+or us ka bad agar hum python entrepreter sa bahir nikalna chata ha to hum simple ya exit() funcion type kar ka enter ppress kar do ga jis sa hum python enterpreter sa bahir ajae ga i mean ka cmd or windows powershell ki main screen pa ajae ga 
+in python there are two types of modules one is enternal and the other one is external...enternal module huma download ya install nhi karna parta sirf un ko use karna ka lia import karna parta ha enternal modules hamara paas bohat sara ha jo pehla sa hi download ya install howa ha jasa ka random or bohat sara jo ka hama is link ka through mil jae ga description command and everthing that you want for any specific module.....    https://docs.python.org/3/py-modindex.html   .....jab ka external module ko use karna ka lia huma un ko pehla download ya install karna parta ha then usa import karna parta ha 
+Pip:
+pip kia ha?
+pip python ka package manager hota ha jo ka enternal/built-in modules jo ka python ka saath given kia hota ha or external modules jo ka python ma pehla sa nhi hota ha huma in ko internet sa install or download karna parta ha use karna ka lia  ko pull kar ka lata ha 
+tenserflow external module ha machine learning ka 
+random number ka module jason parse krna ka module ya hamara enternal moules ha 
+
+for opening python enterpreter just type python on your cmd or windows powershell admin
+we also use python enterpreter as a calculator for solving our daily base problems 
+Flask:
+flask is a module that is used for making a website in python.
